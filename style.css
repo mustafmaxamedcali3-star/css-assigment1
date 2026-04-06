@@ -1,0 +1,60 @@
+
+    nav{
+        text-align: right;
+        background-color: orange;
+        background-size: cover;
+        font-size: larger;
+        font-weight: bolder;
+        color: rgb(14, 20, 92);
+        background-repeat: no-repeat;
+    }
+    a{
+        
+        text-decoration: none;
+        color: rgb(11, 21, 155);
+        height: 200px;
+    }
+    header{
+        background-image: url(Aesthetic\ gym.jpg);
+        background-size: cover;
+        text-align: center;
+        font-size: larger;
+        font-weight: bolder;
+        color:rgb(212, 72, 21);
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 200px;
+    }
+    footer{
+        height: 20px;
+        text-align: left ;
+        background-color: blueviolet;
+     
+    }
+    main{ font-size: larger;
+        font-weight: bolder;
+        color:rgb(2, 2, 2);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: rgb(12, 40, 165);
+
+    }
+    ul{ font-weight: bolder;
+        color:rgb(2, 2, 2);
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
+    div{font-weight: bolder;
+        color:rgb(2, 2, 2);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-color: navy;
+
+
+    }
+    body{
+        background-color: blanchedalmond;
+    }
+
+  
